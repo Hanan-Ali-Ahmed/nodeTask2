@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "fname": "ali",
+        "lname": "omar",
+        "city": "baghdad",
+        "age": 22,
+        "average": 86.66666666666667
+    },
+    {
+        "id": 2,
+        "fname": "adnan",
+        "lname": "ali",
+        "city": "baghdad",
+        "age": 22,
+        "average": 65.5
+    },
+    {
+        "id": 4,
+        "fname": "huda",
+        "lname": "salam",
+        "city": "baghdad",
+        "age": 21,
+        "average": 81.16666666666667
+    },
+    {
+        "id": 5,
+        "fname": "asma",
+        "lname": "jasem",
+        "city": "arbil",
+        "age": 22,
+        "average": 69.16666666666667
+    },
+    {
+        "id": 6,
+        "fname": "lina",
+        "lname": "jamal",
+        "city": "mosel",
+        "age": 21,
+        "average": 49.833333333333336
+    },
+    {
+        "id": 8,
+        "fname": "mayada",
+        "lname": "kamal",
+        "city": "karkok",
+        "age": 22,
+        "average": 95.83333333333333
+    },
+    {
+        "id": 9,
+        "fname": "widad",
+        "lname": "basim",
+        "city": "karkok",
+        "age": 22,
+        "average": 77.66666666666667
+    },
+    {
+        "id": 10,
+        "fname": "warda",
+        "lname": "karam",
+        "city": "arbil",
+        "age": 23,
+        "average": 58.833333333333336
+    },
+    {
+        "id": 12,
+        "fname": "wisam",
+        "lname": "omran",
+        "city": "mosel",
+        "age": 22,
+        "average": 77
+    },
+    {
+        "id": 13,
+        "fname": "lina",
+        "lname": "ali",
+        "city": "baghdad",
+        "age": 23,
+        "average": 96.83333333333333
+    },
+    {
+        "id": 14,
+        "fname": "mysam",
+        "lname": "ahmad",
+        "city": "baghdad",
+        "age": 22,
+        "average": 51.833333333333336
+    },
+    {
+        "id": 15,
+        "fname": "jumana",
+        "lname": "muhanad",
+        "city": "baghdad",
+        "age": 21,
+        "average": 62.333333333333336
+    },
+    {
+        "id": 16,
+        "fname": "zahra",
+        "lname": "mohamed",
+        "city": "karkok",
+        "age": 21,
+        "average": 74.66666666666667
+    },
+    {
+        "id": 17,
+        "fname": "zahra",
+        "lname": "salim",
+        "city": "karkok",
+        "age": 21,
+        "average": 81.16666666666667
+    },
+    {
+        "id": 18,
+        "fname": "zaman",
+        "lname": "hashim",
+        "city": "arbil",
+        "age": 22,
+        "average": 60.166666666666664
+    },
+    {
+        "id": 19,
+        "fname": "salma",
+        "lname": "hamad",
+        "city": "arbil",
+        "age": 12,
+        "average": 51.833333333333336
+    },
+    {
+        "id": 20,
+        "fname": "maria",
+        "lname": "kareem",
+        "city": "baghdad",
+        "age": 22,
+        "average": 50.166666666666664
+    }
+]
